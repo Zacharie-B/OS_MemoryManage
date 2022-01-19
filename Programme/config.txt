@@ -1,0 +1,11 @@
+init 5000
+al 400
+al 1000
+lib 4
+al 5400
+al 2000
+lib 1
+lib 2
+lib 2
+al 900
+end
