@@ -2,7 +2,7 @@
 Dynamic memory allocation system.
 
 Implement a memory allocation/deallocation mechanism inspired by the famous couple malloc() / free() of the standard library.
-There are a demo app, and a test app who get an interactive , an command line and a batch mode. 
+There are a demo app, and a test app who get an interactive, an command line and a batch mode. 
 
 ## Boot tools
 <p>gcc version used to : 9.3</p>
@@ -17,4 +17,7 @@ Droits d'auteur : Tous droits réservés
 ## Compilation
 On Linux :
 - open a terminal and to put himself in the "Programme" repository
-- use the Makefile with the following command : make
+- use the Makefile with the following command :
+  - make demo : demo app
+  - make test : test app
+  - make doc : generate the Doxygen documentation
