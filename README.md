@@ -6,7 +6,7 @@ There are a demo app, and a test app who get an interactive, an command line and
 
 ## Boot tools
 <p>gcc version used to : 9.3</p>
-<p>Use his command prompt to launch the programm : </p>
+<p>Use his command prompt and read "guide_utilisateur.pdf" before to launch the programm. </p>
 
 ## Author
 Zacharie-B
